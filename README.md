@@ -1,4 +1,4 @@
-# [Your Name]'s Portfolio
+# Tanner Smiley's Portfolio
 
 Welcome to my portfolio GitHub repository! This repository contains the source code for my personal portfolio website, where you can find a collection of my latest projects and learn more about my skills, experience, and achievements as a software engineer.
 
