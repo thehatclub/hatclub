@@ -4,16 +4,14 @@
   <div class="row row-cols-1 row-cols-lg-3 align-items-stretch g-4 py-5">
     <div class="col">
       <div
-        class="card card-cover h-100 overflow-hidden text-bg-dark rounded-4 shadow-lg"
+        class="card card-cover h-100 overflow-hidden text-bg-dark rounded-4"
         style="background-image: url('https://images.pexels.com/photos/207662/pexels-photo-207662.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1');"
       >
         <div class="d-flex flex-column h-100 p-5 pb-3 text-white text-shadow-1">
-          <h3 class="pt-5 mt-5 mb-4 display-6 lh-1 fw-bold">
-            Professional Blog
-          </h3>
+          <h3 class="pt-5 mt-5 mb-4 display-6 lh-1 fw-bold">Blog</h3>
           <ul class="d-flex list-unstyled mt-auto">
             <li class="me-auto">
-              <img src="/logo.png" alt="HatClub" width="32" height="32" />
+              <i class="fa-solid fa-rocket fs-3 bg-dark rounded-4 p-3" />
             </li>
           </ul>
         </div>
@@ -26,10 +24,12 @@
         style="background-image: url('https://images.pexels.com/photos/33572/lewisia-bitterwurz-blossom-bloom.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1');"
       >
         <div class="d-flex flex-column h-100 p-5 pb-3 text-white text-shadow-1">
-          <h3 class="pt-5 mt-5 mb-4 display-6 lh-1 fw-bold">Image Scroller</h3>
+          <h3 class="pt-5 mt-5 mb-4 display-6 lh-1 fw-bold text-dark">
+            Image Scroller
+          </h3>
           <ul class="d-flex list-unstyled mt-auto">
             <li class="me-auto">
-              <img src="/logo.png" alt="HatClub" width="32" height="32" />
+              <i class="fa-solid fa-rocket fs-3 bg-dark rounded-4 p-3" />
             </li>
           </ul>
         </div>
@@ -45,7 +45,7 @@
           <h3 class="pt-5 mt-5 mb-4 display-6 lh-1 fw-bold">Workout Tracker</h3>
           <ul class="d-flex list-unstyled mt-auto">
             <li class="me-auto">
-              <img src="/logo.png" alt="HatClub" width="32" height="32" />
+              <i class="fa-solid fa-rocket fs-3 bg-dark rounded-4 p-3" />
             </li>
           </ul>
         </div>

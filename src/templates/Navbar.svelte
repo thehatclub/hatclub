@@ -3,7 +3,14 @@
   aria-label="First navbar example"
 >
   <div class="container-fluid">
-    <a class="navbar-brand" href="#home">The Hat Club</a>
+    <a class="navbar-brand" href="#home"
+      ><img
+        src="/logo.png"
+        alt="The Hat Club"
+        class="fav img-fluid"
+        width="30"
+      /> The Hat Club</a
+    >
     <button
       class="navbar-toggler collapsed"
       type="button"
@@ -35,7 +42,7 @@
           placeholder="Search Blog..."
           aria-label="Search"
         />
-        <button class="btn btn-warning" type="submit">Search</button>
+        <button class="btn btn-warning fw-bold" type="submit">Search</button>
       </form>
     </div>
   </div>
