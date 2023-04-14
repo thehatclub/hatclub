@@ -5,9 +5,9 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build",
+    "build": "vite build && cd dist && echo www.hatclub.dev > CNAME",
     "preview": "vite preview",
-    "deploy": "npx gh-pages -d dist"
+    "deploy": "git add . && git commit -m 'deploy' && git push origin main && npx gh-pages -d dist"
   },
   "devDependencies": {
     "@sveltejs/vite-plugin-svelte": "^2.0.3",
