@@ -32,7 +32,7 @@ Check out my live portfolio website at [hatclub.dev](https://www.hatclub.dev).
 
 To run this project locally, follow these steps:
 
-1. Clone this repository: `git clone https://github.com/yourusername/your-portfolio.git`
+1. Clone this repository: `git clone https://github.com/thehatclub/hatclub.git`
 2. Open the project folder in your favorite code editor
 3. run `npm i` then `npm run dev`
 
