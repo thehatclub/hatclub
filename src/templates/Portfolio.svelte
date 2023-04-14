@@ -17,6 +17,26 @@
         </div>
       </div>
     </div>
+    <div class="col">
+      <div
+        class="card card-cover h-100 overflow-hidden text-bg-dark rounded-4"
+        style="background-image: url('https://images.pexels.com/photos/256262/pexels-photo-256262.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1');"
+      >
+        <div class="d-flex flex-column h-100 p-5 pb-3 text-white text-shadow-1">
+          <h3 class="pt-5 mt-5 mb-4 display-6 lh-1 fw-bold">Ethics Research</h3>
+          <ul class="d-flex list-unstyled mt-auto">
+            <li class="me-auto">
+              <a
+                href="https://ethics.hatclub.dev"
+                class="btn btn-dark"
+                target="_blank"
+                ><i class="fa-solid fa-rocket fs-3 rounded-4 p-2" /></a
+              >
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
 
     <div class="col">
       <div
